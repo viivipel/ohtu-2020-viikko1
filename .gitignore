@@ -4,3 +4,5 @@
 /build/
 # add exception
 !/build.gradle/
+
+gradle.properties
