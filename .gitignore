@@ -1,4 +1,6 @@
-#tmp päätteiset
+# ignore a file type
 *.tmp
-#build
-build
+# ignore an entire directory
+/build/
+# add exception
+!/build.gradle/
